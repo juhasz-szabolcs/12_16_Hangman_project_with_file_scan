@@ -2,7 +2,7 @@
 
 <!-- [//]: # (![Akasztófa]&#40;Hangman_OG-logo.jpg&#41;) -->
 <img src="pictures/Hangman_OG-logo.jpg" alt="Hangman OG logó" width="300" height="200"><br>
-<img src="pictures/Hangman_OG-logo.jpg" alt="Akasztófa logó" width="300" height="200">
+<!-- <img src="pictures/Hangman_OG-logo.jpg" alt="Akasztófa logó" width="300" height="200"> -->
 
 ### Feladatok
 Készítsd el az akasztófa játék alapvető működését. Használhatsz bármilyen (akár állandó) kitalálandó szót, a hangsúly a találgatás logikáján és a játék befejezésének megvalósításán van.
