@@ -1,6 +1,7 @@
 # Hangman game
 
-[//]: # (![Hang-man]&#40;Hangman_OG-logo.jpg&#41;)
+<!-- [//]: # (![Hang-man]&#40;Hangman_OG-logo.jpg&#41;) -->
+<img src="pictures/Hangman_OG-logo.jpg" alt="Hangman OG logo" width="300" height="200"><br>
 <img src="pictures/Hangman_OG-logo.jpg" alt="Hangman logo" width="300" height="200">
 
 
